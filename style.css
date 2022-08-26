@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.heading {
+    font-size: 100px;
+    color: #433e0e;
+    margin-left: 20%;
+}   
+a:hover {
+    color: #5d5f71;
+}
+.links {
+    color: #433e0e;
+    font-size: 30px;
+}
